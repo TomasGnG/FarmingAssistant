@@ -1,0 +1,10 @@
+name: FarmingAssistant
+version: '${project.version}'
+main: com.tomasgng.FarmingAssistant
+api-version: 1.19
+authors: [ TomasGnG ]
+description: Make farming easier
+
+commands:
+  farmingassistant:
+    aliases: farma
